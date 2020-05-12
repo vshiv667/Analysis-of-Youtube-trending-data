@@ -12,9 +12,13 @@ Given YouTube’s large library of videos, it is important to filter videos to d
 The main research questions we tried to answer in our project include:
 
 What similarities and differences are there between trending videos in different regions (between the United States, Great Britain and India)?
+
 Which categories of trending videos have high likeability?
+
 What insights can we gain from text mining and natural language processing analyses on video titles, tags and descriptions?
+
 Can we make any inferences about viewer preferences based on the analysis of the video data?
+
 What are the implications for content creation, monetization and advertising?
 
 # Conclusions:
