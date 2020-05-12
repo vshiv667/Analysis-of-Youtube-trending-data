@@ -21,7 +21,7 @@ Can we make any inferences about viewer preferences based on the analysis of the
 
 What are the implications for content creation, monetization and advertising?
 
-# Conclusions:
+# Insights:
 
 Our findings reveal quite a bit of information about trending videos on YouTube in the United States, Great Britain and India, and they can serve as useful insights for video content creators, advertisers and viewers in these countries. Below is a summary of our findings:
 
