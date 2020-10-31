@@ -51,7 +51,10 @@ Our findings reveal quite a bit of information about trending videos on YouTube 
 
 In conclusion, our project findings offer something of value for various interested parties, including creators, advertisers and viewers on the YouTube platform. Given that YouTube now has 2 billion monthly users who watch 250 million hours on TV screens daily (Variety, 2019) and the continuing trend of viewers moving away from tradition TV to online platforms like YouTube, it is an important time for advertisers and agencies to think about diversifying their advertising spending away from traditional TV to online platforms like YouTube.
 
-## License
+## Libraries:
+Python: NumPy, pandas, Matplotlib, Seaborn, NLTK
+
+## License:
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
